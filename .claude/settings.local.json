@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.airbnb.co.in)",
+      "Bash(ls \"C:\\\\Users\\\\abdulla.murshidkv\\\\Desktop\\\\myprojects\\\\React\" 2>/dev/null)",
+      "Read(//c/Users/abdulla.murshidkv/Desktop/myprojects/React/**)"
+    ]
+  }
+}
